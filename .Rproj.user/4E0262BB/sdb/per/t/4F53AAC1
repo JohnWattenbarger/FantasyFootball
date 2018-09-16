@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531519561243.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4F53AAC1",
+    "lastKnownWriteTime" : 3332982978302336121,
+    "last_content_update" : 1531519561243,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BC7B4107",
+        "caption" : "TE.export",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TE.export&cache_key=BC7B4107",
+        "displayedObservations" : "109",
+        "environment" : "",
+        "object" : "TE.export",
+        "preview" : "0",
+        "totalObservations" : "109",
+        "variables" : "17"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

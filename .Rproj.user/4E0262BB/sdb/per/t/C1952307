@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531516632618.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C1952307",
+    "lastKnownWriteTime" : 7226435094589303907,
+    "last_content_update" : 1531516632618,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A2D2E0AD",
+        "caption" : "QB.2017",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=QB.2017&cache_key=A2D2E0AD",
+        "displayedObservations" : "70",
+        "environment" : "",
+        "object" : "QB.2017",
+        "preview" : "0",
+        "totalObservations" : "70",
+        "variables" : "25"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

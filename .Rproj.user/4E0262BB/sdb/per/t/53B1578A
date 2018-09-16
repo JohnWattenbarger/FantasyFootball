@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531518828875.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "53B1578A",
+    "lastKnownWriteTime" : 8093848381030412895,
+    "last_content_update" : 1531518828875,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D6DC0A0C",
+        "caption" : "QB.export",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=QB.export&cache_key=D6DC0A0C",
+        "displayedObservations" : "70",
+        "environment" : "",
+        "object" : "QB.export",
+        "preview" : "0",
+        "totalObservations" : "70",
+        "variables" : "26"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
